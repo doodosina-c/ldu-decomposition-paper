@@ -10,5 +10,5 @@ Additional information on the content of the ldu-decomposition repository
 ## Aggregation and representation of data
 ## 3.2 Statistics 
 ## Application. Distribution of compensations across iterations
-## 4. Discussion
-## External sources
+### 4. Discussion
+### External sources
