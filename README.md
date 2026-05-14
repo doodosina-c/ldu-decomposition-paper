@@ -1,5 +1,5 @@
 # Implementing LDU-decomposition and research by data
-Additional information on the content of the ldu-decomposition repository
+Additional information on the content of the [ldu-decomposition](https://github.com/doodosina-c/ldu-decomposition) repository
 ## Contents
 ### 1. Objectives
 ### 2. Methods
